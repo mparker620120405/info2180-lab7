@@ -1,0 +1,34 @@
+header {
+	height: auto;
+	width: 100%;
+	background-color: #00e649;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Staatliches', cursive;
+	font-size: 45px;
+	color: #ffffff;
+}
+
+body {
+	font-family: 'Tajawal', sans-serif;
+	color: #000000;
+	background-color: #e6ffee;
+}
+
+main {
+	position: absolute;
+	top: 150px;
+}
+
+.button {
+	font-family: 'Tajawal', sans-serif;
+	color: #00e649;
+	font-weight: bold;
+	background-color: #000000;
+	border-color: #00e649;
+}
